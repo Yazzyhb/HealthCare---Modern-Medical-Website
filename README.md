@@ -145,5 +145,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or suggestions, please reach out to:
 
-- Email: info@healthcare-example.com
-- Website: [healthcare-example.com](https://healthcare-example.com)
+- Email: hadjbrahimyasmine@gmail.com
